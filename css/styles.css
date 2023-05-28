@@ -21,5 +21,14 @@ body{
 .card{
     background-color: transparent;
     color: white;
+    border: transparent;
 }
-card-img-top
+.card-title{
+    font-family: DroidSerif-Bold;
+}
+.card-text{
+    font-family: DroidSerif;
+}
+/* .btn-details{
+    font-family: DroidSerif-Bold;
+} */
