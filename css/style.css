@@ -1,16 +1,20 @@
-@font-face {
-    font-family: DroidSerif ;
-    src: url('../fonts/DroidSerif-Regular.ttf');
-}
-@font-face {
-    font-family: DroidSerif-Bold ;
-    src: url('../fonts/DroidSerif-Bold.ttf');
-}
-@font-face {
-    font-family: DroidSerif-Italic ;
-    src: url('../fonts/DroidSerif-Italic.ttf');
-}
-@font-face {
-    font-family: DroidSerif-BoldItalic ;
-    src: url('../fonts/DroidSerif-BoldItalic.ttf');
-}
+body{
+    background-color: #314C7A;
+    color: white;
+   }
+   @font-face {
+       font-family: DroidSerif ;
+       src: url('../fonts/DroidSerif-Regular.ttf');
+   }
+   @font-face {
+       font-family: DroidSerif-Bold ;
+       src: url('../fonts/DroidSerif-Bold.ttf');
+   }
+   @font-face {
+       font-family: DroidSerif-Italic ;
+       src: url('../fonts/DroidSerif-Italic.ttf');
+   }
+   @font-face {
+       font-family: DroidSerif-BoldItalic ;
+       src: url('../fonts/DroidSerif-BoldItalic.ttf');
+   }
