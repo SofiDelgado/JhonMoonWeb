@@ -1,3 +1,6 @@
+body{
+ background-color: #314C7A;
+}
 @font-face {
     font-family: DroidSerif ;
     src: url('../fonts/DroidSerif-Regular.ttf');
