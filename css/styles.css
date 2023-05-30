@@ -1,0 +1,29 @@
+body{
+    background-color: #314C7A;
+    color: white;
+    font-family: DroidSerif;
+   }
+   @font-face {
+       font-family: DroidSerif ;
+       src: url('../fonts/DroidSerif-Regular.ttf');
+   }
+   @font-face {
+       font-family: DroidSerif-Bold ;
+       src: url('../fonts/DroidSerif-Bold.ttf');
+   }
+   @font-face {
+       font-family: DroidSerif-Italic ;
+       src: url('../fonts/DroidSerif-Italic.ttf');
+   }
+   @font-face {
+       font-family: DroidSerif-BoldItalic ;
+       src: url('../fonts/DroidSerif-BoldItalic.ttf');
+   }
+
+nav{
+    background-color: #00c9e0;
+    color: white;
+}
+.img-logo{
+    width: 10%;
+}
