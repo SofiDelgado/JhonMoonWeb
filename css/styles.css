@@ -23,6 +23,9 @@ body{
 nav{
     background-color: #00c9e0;
     color: white;
+    font-family: DroidSerif-Bold;
+    font-size: large;
+    
 }
 .img-logo{
     width: 10%;
